@@ -20,3 +20,7 @@ Additionally via by using "gemini-pro-vision" model and Google Api Key, it recog
 `pip install streamlit` -> To run streamlit oriented applications
 
 `pip install google.generativeai`-> Especially chatbot related applications where chatbot responds and provides the answers based on text and image
+
+For training chatterbots
+pip install chatterbot
+
