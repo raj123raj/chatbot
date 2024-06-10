@@ -11,7 +11,7 @@ import pandas as pd
 st.markdown("# Simple Chat Bot page 🎈")
 st.sidebar.markdown("# Chat Bot page 🎈")
 
-GOOGLE_API_KEY = "AIzaSyB0s4jeiEXu1CgxNuyiosibCB2mJxgd8sk"
+GOOGLE_API_KEY = "**************" #Replace your api_key here
 genai.configure(api_key=GOOGLE_API_KEY)
 
 ## function to load Gemini Pro model and get repsonses
